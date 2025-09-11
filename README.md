@@ -21,7 +21,8 @@ Com o fluxo do código abaixo:
 ```
 Code_Challenges
   └─FirstReverse.py
-  └─evaluateModel.py
+  └─LongestWord.py
+  └─UsernameValidation.py
 ```
 
 ## Resolução de cada desafio:
