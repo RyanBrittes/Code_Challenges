@@ -23,6 +23,7 @@ Code_Challenges
   └─FirstReverse.py
   └─LongestWord.py
   └─UsernameValidation.py
+  └─FirstFactorial.py
 ```
 
 ## Resolução de cada desafio:
