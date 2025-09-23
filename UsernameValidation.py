@@ -37,5 +37,4 @@ def CodelandUsernameValidation(strParam):
   
   return validation
 
-# keep this function call here 
 print(CodelandUsernameValidation(input("Text here --> ")))

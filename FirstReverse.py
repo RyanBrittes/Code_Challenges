@@ -16,5 +16,4 @@ def FirstReverse(strParam):
 
   return word
 
-# keep this function call here 
 print(FirstReverse(input("Text here --> ")))
